@@ -1,44 +1,52 @@
-# 🎂 Birthday Celebrate Plugin for WordPress
-
+🎂 Birthday Celebrate Plugin for WordPress
 A fun and interactive WordPress plugin to celebrate user birthdays with sound and confetti effects!
+🎉 Sesli ve konfetili kullanıcı doğum günü kutlamaları için eğlenceli bir WordPress eklentisi.
 
-![Birthday Celebration](https://raw.githubusercontent.com/alikokrtv/birthday-celebrate/main/assets/screenshot.png)
 
----
 
-## ✨ Features
+✨ Features / Özellikler
+🎉 Confetti animation / Konfeti animasyonu
 
-- 🎉 Confetti animation
-- 🔊 Celebration sound
-- 👥 User birthday list
-- 🎈 Celebrate button
+🔊 Celebration sound / Kutlama sesi
 
----
+👥 User birthday list / Kullanıcı doğum günü listesi
 
-## 📦 Installation
+🎈 Celebrate button / Kutla butonu
 
-1. Download or clone the repository:
-   ```bash
-   git clone https://github.com/alikokrtv/birthday-celebrate.git
+📦 Installation / Kurulum
+Download or clone the repository:
+Reponun zip dosyasını indir ya da terminalden klonla:
+
+bash
+Kopyala
+Düzenle
+git clone https://github.com/alikokrtv/birthday-celebrate.git
 Upload to your WordPress wp-content/plugins directory.
+wp-content/plugins dizinine yükle.
 
 Activate the plugin from the WordPress admin panel.
+WordPress yönetici panelinden eklentiyi aktif et.
 
-🖼️ Screenshots
+🖼️ Screenshots / Ekran Görüntüleri
 Birthday List	Celebration
-💡 Usage
+💡 Usage / Kullanım
 Go to Birthday Celebrate under the WordPress dashboard.
+WordPress yönetici panelinden Birthday Celebrate menüsüne git.
 
 View the list of users with birthdays.
+Doğum günü olan kullanıcıları listele.
 
 Click the Celebrate button to trigger sound and confetti.
+🎉 Butona tıklayarak kutlamayı başlat (konfeti + ses).
 
-🚧 Coming Soon
-Email notifications
+🚧 Coming Soon / Yakında
+📧 Email notifications / E-posta bildirimleri
 
-Custom birthday messages
+💬 Custom birthday messages / Özel kutlama mesajları
 
-Theme customization
+🎨 Theme customization / Tema özelleştirme
 
-🧑‍💻 Author
+🧑‍💻 Author / Geliştirici
 Made with ❤️ by Ali Kök
+
+İstanbul, Türkiye
